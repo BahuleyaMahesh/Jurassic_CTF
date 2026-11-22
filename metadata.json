@@ -1,0 +1,6 @@
+{
+  "name": "JURASSIC: The Extinction Protocol",
+  "description": "Complete 7-stage digital forensics, steganography, audio DSP, and cryptography CTF competition package and download archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

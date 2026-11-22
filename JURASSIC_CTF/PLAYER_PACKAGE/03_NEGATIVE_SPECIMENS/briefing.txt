@@ -1,0 +1,21 @@
+====================================================================
+STAGE 03 — THE NEGATIVE SPECIMENS
+====================================================================
+Category   : Image Processing / Digital Forensics
+Difficulty : Medium
+
+BRIEFING:
+Four laboratory imaging plates from Containment Wing B were corrupted or
+processed on darkroom/microscope hardware prior to the shutdown.
+Each plate requires a distinct pixel-level correction:
+  - specimen_01.png : Color inversion (photographic negative)
+  - specimen_02.png : Extreme brightness/contrast recovery
+  - specimen_03.png : Single RGB channel isolation
+  - specimen_04.png : Gamma correction / intensity thresholding
+
+FILES:
+  - specimen_01.png, specimen_02.png, specimen_03.png, specimen_04.png
+
+OBJECTIVE:
+Recover the specimen ID, vault code, and sublevel bay. Flag format:
+  JURASSIC[<SPECIMEN_ID>_<VAULT>_<BAY>]

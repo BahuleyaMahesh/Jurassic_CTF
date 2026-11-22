@@ -1,0 +1,20 @@
+====================================================================
+STAGE 01 — THE EXCAVATION
+====================================================================
+Category   : Image Forensics / Steganography
+Difficulty : Easy
+
+BRIEFING:
+Recovered from a waterproof Pelican case outside Brackett City, these
+two field photographs were logged days before the July 18, 1997 incident.
+Investigate the JPEG metadata and inspect the raw pixel channels of
+the amber lab plate to uncover the excavation sector and coordinates.
+
+FILES:
+  - excavation_01.jpg
+  - excavation_02.png
+
+OBJECTIVE:
+Recover the Sector ID, geographic coordinates, and calibration note
+required to unlock Stage 02. Submit the Stage 01 flag:
+  JURASSIC[<SECTOR>_<COORDINATES>]

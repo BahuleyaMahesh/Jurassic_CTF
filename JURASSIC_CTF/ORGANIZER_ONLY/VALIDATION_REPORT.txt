@@ -1,0 +1,68 @@
+JURASSIC: THE EXTINCTION PROTOCOL — AUTOMATED VALIDATION REPORT
+================================================================
+
+[PASS] Stage 01a (excavation_01.jpg EXIF/COM)
+  Expected: SECTOR_4 & 38.4420N_109.5120W
+  Actual  : Found EXIF+COM
+
+[PASS] Stage 01b (excavation_02.png Red-LSB + tEXt)
+  Expected: JURASSIC[SECTOR_4_38.4420N_109.5120W]
+  Actual  : JCTF1:SECTOR=SECTOR_4|COORD=38.4420N_109.5120W|NEXT_FREQ=748Hz|AUTH=AMBER97|FLAG=JURASSIC[SECTOR_4_38.4420N_109.5120W]
+
+[PASS] Stage 02a (frequency_748.wav 748Hz Morse)
+  Expected: KEY IS HELIX748
+  Actual  : KEY IS HELIX748
+
+[PASS] Stage 02b (frequency_748.wav 16.5-19.8kHz spectrogram energy ratio)
+  Expected: > 100x
+  Actual  : 1819.6x
+
+[PASS] Stage 03a (specimen_01.png genuine inversion)
+  Expected: Invertible negative
+  Actual  : min_neg=0, max_inv=255
+
+[PASS] Stage 03b (specimen_02.png compressed contrast range)
+  Expected: [4, 24]
+  Actual  : [4, 24]
+
+[PASS] Stage 03c (specimen_03.png Blue channel modulation)
+  Expected: Delta > 40
+  Actual  : span=217
+
+[PASS] Stage 03d (specimen_04.png dark gamma/threshold layer)
+  Expected: > 500 text pixels >= 12
+  Actual  : count=12263
+
+[PASS] Stage 04a (staff_records.txt Hex + Base64)
+  Expected: CRYO_OMEGA_97 & reverse hint
+  Actual  : KEY_PHRASE: CRYO_OMEGA_97
+
+[PASS] Stage 04b (PDF validity, white text & embedded file)
+  Expected: Valid PDFs + hidden streams
+  Actual  : gs_rc=0
+
+[PASS] Stage 05a (lab_recording.wav DTMF + 1800Hz Morse)
+  Expected: 19970718 / REVERSE LEFT STEREO
+  Actual  : 19970718 / REVERSE LEFT STEREO
+
+[PASS] Stage 05b (last_transmission.wav rev-L Morse + R DTMF + R Spec)
+  Expected: PART1 THORNE97 / 970718 / Spec>100x
+  Actual  : PART1 THORNE97 / 970718 / 33509.5x
+
+[PASS] Stage 06 (brackett_map.png + AES-256-CBC incident_1997.enc)
+  Expected: JURASSIC[PROTOCOL_OMEGA_CONTAINMENT_1997]
+  Actual  : Decrypted OK
+
+[PASS] Stage 07a (extinction_protocol.bin XOR+zlib unpack)
+  Expected: Valid JEXT1997 manifest
+  Actual  : magic=b'JEXT1997', sha_match=True
+
+[PASS] Stage 07b (final_archive.dat AES-256-CBC final flag)
+  Expected: JURASSIC[EXTINCTION_PROTOCOL_EXECUTED_1997_SECTOR_7]
+  Actual  : JURASSIC[EXTINCTION_PROTOCOL_EXECUTED_1997_SECTOR_7]
+
+[PASS] Security Audit (zero final flag / organizer leak in Player ZIP)
+  Expected: 0 leaks
+  Actual  : CLEAN (0 leaks)
+
+OVERALL STATUS: ALL TESTS PASSED

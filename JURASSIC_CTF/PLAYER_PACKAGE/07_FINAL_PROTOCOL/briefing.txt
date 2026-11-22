@@ -1,0 +1,19 @@
+====================================================================
+STAGE 07 — THE EXTINCTION PROTOCOL (FINAL STAGE)
+====================================================================
+Category   : Multi-stage Forensics / Cryptography
+Difficulty : Hard
+
+BRIEFING:
+You have uncovered the truth behind the July 18, 1997 Brackett City
+lockdown. Two final sealed artifacts remain in the Sublevel-4 vault:
+  - extinction_protocol.bin : Custom binary container (header + compressed
+                              XOR-encrypted manifest starting at payload offset)
+  - final_archive.dat       : OpenSSL AES-256-CBC encrypted final record
+
+Combine the coordinates from Stage 01, specimen ID from Stage 03,
+key phrase from Stage 04, and incident code from Stage 06.
+
+OBJECTIVE:
+Extract the manifest from extinction_protocol.bin, decrypt
+final_archive.dat, and recover the final flag: JURASSIC[...]

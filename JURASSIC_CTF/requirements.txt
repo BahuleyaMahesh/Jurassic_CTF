@@ -1,0 +1,11 @@
+# Core Python packages for external reproduction & forensics validation
+# Note: generate_ctf.py and validate_ctf.py also include pure-Python + CLI fallbacks
+# (ImageMagick, FFmpeg, OpenSSL) when optional third-party wheels are absent.
+pillow>=10.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+librosa>=0.10.0
+soundfile>=0.12.1
+cryptography>=41.0.0
+pymupdf>=1.23.0
+reportlab>=4.0.0

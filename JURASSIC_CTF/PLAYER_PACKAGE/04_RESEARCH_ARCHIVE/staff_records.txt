@@ -1,0 +1,17 @@
+BIOGENESIS PALEOTECH DIVISION — CLASSIFIED PERSONNEL ROSTER (1997)
+FACILITY: BRACKETT CITY COMPLEX | AUDIT: 1997-07-18
+====================================================================
+ID       NAME                  ROLE                      ASSIGNMENT            STATUS
+----------------------------------------------------------------------------------------
+BPD-008  Dr. Elena Vance       Cryo-Systems Engineer     WARD-C / CRYO-1       MIA 1997-07-18
+BPD-011  Marcus Hale           RF Telemetry Tech         RELAY TOWER 04        MIA 1997-07-18
+BPD-014  Dr. Aris Thorne       Lead Paleogeneticist      SUBLEVEL-4 / VAULT-B3  MIA 1997-07-18
+BPD-016  Dr. Claire Sato       Amber Core Analyst        EXCAVATION SECTOR 4   MIA 1997-07-18
+BPD-019  Owen Mercer           Site Security Chief       PERIMETER OMEGA       MIA 1997-07-18
+----------------------------------------------------------------------------------------
+
+[ENCRYPTED TELEMETRY FOOTNOTE — BASE64]
+U1RBR0UwNV9OT1RFOiBSRVZJU0lUIFNUQUdFMDIgKEhFTElYNzQ4KSBBTkQgUkVWRVJTRSBMRUZUIENIQU5ORUwgT0YgbGFzdF90cmFuc21pc3Npb24ud2F2
+
+[CLEARANCE TOKEN — HEX]
+BPD-014_TOKEN=4B45595F5048524153453A204352594F5F4F4D4547415F3937

@@ -1,0 +1,19 @@
+====================================================================
+STAGE 02 — THE DEAD FREQUENCY
+====================================================================
+Category   : Audio Forensics
+Difficulty : Easy-Medium
+
+BRIEFING:
+Automated relay receivers outside Brackett City recorded an 18-second
+shortwave burst on an unlisted carrier. Atmospheric static and a
+fragmented radio transmission mask an underlying signal.
+
+Use the frequency clue from Stage 01 (748 Hz) and inspect the full
+time-frequency spectrogram to recover the facility access password.
+
+FILES:
+  - frequency_748.wav
+
+OBJECTIVE:
+Recover the Stage 02 password and format as JURASSIC[<PASSWORD>].

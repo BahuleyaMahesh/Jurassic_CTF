@@ -1,0 +1,21 @@
+====================================================================
+STAGE 04 — THE MISSING RESEARCHER
+====================================================================
+Category   : Document Forensics / Encoding
+Difficulty : Medium
+
+BRIEFING:
+Internal BioGenesis Paleotech records salvaged from the administrative
+mainframe contain personnel rosters, experiment logs, and redacted
+incident reports. Examine document metadata, hidden PDF layers,
+embedded attachments, and encoded strings to identify the lead
+researcher and recover the archive key phrase.
+
+FILES:
+  - staff_records.txt
+  - research_log.pdf
+  - experiment_07.pdf
+
+OBJECTIVE:
+Identify the Lead Paleogeneticist and key phrase. Flag format:
+  JURASSIC[<FIRST_LAST>_<KEY_PHRASE>]

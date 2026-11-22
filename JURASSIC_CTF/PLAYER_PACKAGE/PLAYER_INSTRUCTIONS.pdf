@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Title (JURASSIC: THE EXTINCTION PROTOCOL - Player Instructions) /Author (CTF Organizing Committee) /Subject (Investigator Case Briefing & Rules) /Keywords (JURASSIC CTF Player Instructions 1997 Brackett City) /Creator (BioGenesis Archive System 1997) >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+7 0 obj
+<< /Length 3245 >>
+stream
+BT /F2 18.0 Tf 0.050 0.300 0.180 rg 1 0 0 1 54.0 742.0 Tm (JURASSIC: THE EXTINCTION PROTOCOL) Tj ET
+BT /F2 11.0 Tf 0.250 0.300 0.280 rg 1 0 0 1 54.0 722.0 Tm (PLAYER BRIEFING & FORENSIC INVESTIGATION GUIDE) Tj ET
+0.80 w 0.600 0.650 0.650 RG 54.0 710.0 m 558.0 710.0 l S
+BT /F2 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 682.0 Tm (CASE BACKGROUND:) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 662.0 Tm (In 1997, BioGenesis Paleotech established a classified facility outside) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 642.0 Tm (Brackett City to extract prehistoric DNA. On July 18, 1997, all) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 622.0 Tm (communications ceased and every researcher disappeared.) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 602.0 Tm (You have been handed the recovered 7-stage evidence archive.) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 582.0 Tm () Tj ET
+BT /F2 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 562.0 Tm (RULES & FLAG FORMAT:) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 542.0 Tm (  1. Every stage unlocks intelligence needed for subsequent stages.) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 522.0 Tm (  2. Flag format: JURASSIC[...] \(exact uppercase/underscores\).) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 502.0 Tm (  3. No internet access or brute-force guessing is required.) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 482.0 Tm (  4. Preserve untouched backups of original evidence before editing.) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 462.0 Tm () Tj ET
+BT /F2 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 442.0 Tm (RECOMMENDED FREE TOOLS:) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 422.0 Tm (  - Image Forensics : ExifTool, Python Pillow, GIMP, ImageMagick, strings) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 402.0 Tm (  - Audio Forensics : Audacity, Sonic Visualiser, FFmpeg, Python wave/scipy) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 382.0 Tm (  - Document/Crypto : pdftotext / PyMuPDF, OpenSSL \(AES-256-CBC\), Python) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 362.0 Tm () Tj ET
+BT /F2 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 342.0 Tm (INVESTIGATION STAGES:) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 322.0 Tm (  01_EXCAVATION         - Field photos, EXIF metadata & pixel LSBs) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 302.0 Tm (  02_FREQUENCY          - Shortwave static, notched Morse & spectrogram) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 282.0 Tm (  03_NEGATIVE_SPECIMENS - Inversion, contrast, channel & gamma recovery) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 262.0 Tm (  04_RESEARCH_ARCHIVE   - Classified PDFs, attachments, hex & Base64) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 242.0 Tm (  05_TRANSMISSION       - Stereo split, reversed audio, DTMF & spectrogram) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 222.0 Tm (  06_BRACKETT_CITY      - Tactical map & OpenSSL AES-256-CBC decryption) Tj ET
+BT /F3 10.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 202.0 Tm (  07_FINAL_PROTOCOL     - Binary extraction & final encrypted archive) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000388 00000 n 
+0000000458 00000 n 
+0000000533 00000 n 
+0000000601 00000 n 
+0000003897 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R /Info 3 0 R >>
+startxref
+4043
+%%EOF

@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Title (JURASSIC: THE EXTINCTION PROTOCOL - Master Answer Key) /Author (CTF Organizing Committee) /Subject (ORGANIZER ONLY - CONFIDENTIAL) /Keywords (Master Answer Key Solutions) /Creator (BioGenesis Archive System 1997) >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+7 0 obj
+<< /Length 2204 >>
+stream
+BT /F2 16.0 Tf 0.650 0.080 0.080 rg 1 0 0 1 54.0 742.0 Tm (ORGANIZER ONLY // MASTER ANSWER KEY) Tj ET
+BT /F2 11.0 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 722.0 Tm (JURASSIC: THE EXTINCTION PROTOCOL \(SEED 19970718\)) Tj ET
+0.80 w 0.600 0.650 0.650 RG 54.0 710.0 m 558.0 710.0 l S
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 682.0 Tm (STAGE 01 : JURASSIC[SECTOR_4_38.4420N_109.5120W]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 664.0 Tm (  Method : JPEG EXIF/COM + PNG tEXt + Red-LSB Steganography \(JCTF1:...\)) Tj ET
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 646.0 Tm (STAGE 02 : JURASSIC[HELIX748]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 628.0 Tm (  Method : 748 Hz Notched Morse + 16.5-19.8 kHz Ultrasonic Spectrogram) Tj ET
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 610.0 Tm (STAGE 03 : JURASSIC[VELOCIS-07_VAULT-B3_SUBLEVEL-4]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 592.0 Tm (  Method : Negate \(01\), Auto-Level \(02\), Blue Channel \(03\), Gamma/Thresh \(04\)) Tj ET
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 574.0 Tm (STAGE 04 : JURASSIC[ARIS_THORNE_CRYO_OMEGA_97]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 556.0 Tm (  Method : Base64/Hex in TXT & PDF Keywords + White Text + Embedded File) Tj ET
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 538.0 Tm (STAGE 05 : JURASSIC[THORNE97-OMEGA748-HELIX748]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 520.0 Tm (  Method : Reverse Left Ch \(2200Hz Morse\) + Right Spec \(14-18.5kHz\) + HELIX748) Tj ET
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 502.0 Tm (STAGE 06 : JURASSIC[PROTOCOL_OMEGA_CONTAINMENT_1997]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 484.0 Tm (  Method : OpenSSL AES-256-CBC PBKDF2 pass=THORNE97-OMEGA748-HELIX748) Tj ET
+BT /F2 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 466.0 Tm (STAGE 07 : JURASSIC[EXTINCTION_PROTOCOL_EXECUTED_1997_SECTOR_7]) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 448.0 Tm (  Method : extinction_protocol.bin XOR\('38.4420N_109.5120W'\)+zlib,) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 430.0 Tm (           then OpenSSL AES-256-CBC pass=CRYO_OMEGA_97:OMEGA-PURGE-2342:VELOCIS-07) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000357 00000 n 
+0000000427 00000 n 
+0000000502 00000 n 
+0000000570 00000 n 
+0000002825 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R /Info 3 0 R >>
+startxref
+2971
+%%EOF

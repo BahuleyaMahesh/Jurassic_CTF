@@ -1,0 +1,90 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Names 12 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Title (Experiment 07 Dossier - VELOCIS-07) /Author (Dr. Aris Thorne) /Subject (Brackett City Incident Reconstruction - V07-DELTA) /Keywords (LEAD=ARIS_THORNE | KEY_PHRASE=CRYO_OMEGA_97) /Creator (BioGenesis Archive System 1997) >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+7 0 obj
+<< /Length 1923 >>
+stream
+BT /F2 14.0 Tf 0.050 0.250 0.150 rg 1 0 0 1 54.0 742.0 Tm (EXPERIMENT 07 DOSSIER // SPECIMEN VELOCIS-07) Tj ET
+0.80 w 0.600 0.650 0.650 RG 54.0 728.0 m 558.0 728.0 l S
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 696.0 Tm (Specimen Code : V07-DELTA \(VELOCIS-07\)) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 678.0 Tm (Origin Site   : SECTOR_4 \(38.4420N_109.5120W\)) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 660.0 Tm (Auth Token    : AMBER97 / HELIX748) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 642.0 Tm (Lead Scientist: Dr. Aris Thorne \(BPD-014\)) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 624.0 Tm () Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 606.0 Tm (OBSERVATION SUMMARY \(1997-07-18\):) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 588.0 Tm (Genetic reconstruction from Delta-4 amber exhibited unexpected) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 570.0 Tm (synaptic synchronization across adjacent cryo-incubators.) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 552.0 Tm (Immediate containment initiated under Protocol Omega.) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 534.0 Tm () Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 516.0 Tm (TRANSMISSION PROTOCOL DIRECTIVE \(BASE64\):) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 498.0 Tm (V0FSTklORzogU1RBR0UwNSBsYXN0X3RyYW5zbWlzc2lvbi53YXYgTEVGVCBDSEFOTkVM) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 480.0 Tm (IElTIFRJTUUtUkVWRVJTRUQuIENPTUJJTkU6IDxQQVJUMT4tPFBBUlQyPi08U1RBR0UwMl9QQVNTPiBGT1IgU1RBR0UwNiBBRVMgS0VZLg==) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 462.0 Tm () Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 444.0 Tm (NOTE: An uncompressed telemetry attachment \(transmission_protocol.txt\)) Tj ET
+BT /F3 9.5 Tf 0.080 0.100 0.100 rg 1 0 0 1 54.0 426.0 Tm (is embedded inside this PDF document.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Type /EmbeddedFile /Length 522 >>
+stream
+BIOGENESIS TRANSMISSION PROTOCOL — EMBEDDED ATTACHMENT
+======================================================
+LEAD_RESEARCHER: ARIS_THORNE
+KEY_PHRASE: CRYO_OMEGA_97
+STAGE04_FLAG: JURASSIC[ARIS_THORNE_CRYO_OMEGA_97]
+STAGE05_INSTRUCTIONS:
+  1. Split last_transmission.wav into Left and Right channels.
+  2. Reverse the Left channel in time to decode the 2200 Hz Morse key PART1.
+  3. Inspect the Right channel spectrogram (14-18.5 kHz) for PART2 and verify DTMF.
+  4. Assemble Stage 06 key: <PART1>-<PART2>-<STAGE02_PASS>
+
+endstream
+endobj
+10 0 obj
+<< /Type /Filespec /F (transmission_protocol.txt) /EF << /F 9 0 R >> >>
+endobj
+11 0 obj
+<< /Names [(transmission_protocol.txt) 10 0 R] >>
+endobj
+12 0 obj
+<< /EmbeddedFiles 11 0 R >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000072 00000 n 
+0000000129 00000 n 
+0000000379 00000 n 
+0000000449 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000002566 00000 n 
+0000002712 00000 n 
+0000003305 00000 n 
+0000003393 00000 n 
+0000003459 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R /Info 3 0 R >>
+startxref
+3503
+%%EOF

@@ -1,0 +1,22 @@
+====================================================================
+STAGE 05 — THE LAST TRANSMISSION
+====================================================================
+Category   : Advanced Audio Forensics
+Difficulty : Medium-Hard
+
+BRIEFING:
+Two audio reels survived inside Sublevel-4's shielded tape deck.
+  1) lab_recording.wav: Ambient machinery, lab voice alert, and DTMF.
+  2) last_transmission.wav: A stereo emergency broadcast containing
+     multiple forensic layers.
+
+Remember the protocol warning recovered in Stage 04.
+
+FILES:
+  - lab_recording.wav
+  - last_transmission.wav
+
+OBJECTIVE:
+Recover both key halves and combine them with the Stage 02 password
+to obtain the Stage 06 AES-256 decryption key:
+  JURASSIC[<PART1>-<PART2>-<STAGE02_PASS>]

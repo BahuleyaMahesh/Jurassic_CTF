@@ -1,0 +1,19 @@
+====================================================================
+STAGE 06 — BRACKETT CITY
+====================================================================
+Category   : Geospatial Forensics / Cryptography
+Difficulty : Hard
+
+BRIEFING:
+With the emergency transmission key assembled, recover the encrypted
+July 18, 1997 incident report (incident_1997.enc) and cross-reference
+the Brackett City tactical survey map against Stage 01 & Stage 03.
+
+FILES:
+  - brackett_map.png
+  - coordinates.dat
+  - incident_1997.enc
+
+OBJECTIVE:
+Decrypt incident_1997.enc using OpenSSL AES-256-CBC (PBKDF2) and
+recover the Stage 06 flag: JURASSIC[...]
